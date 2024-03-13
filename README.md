@@ -11,3 +11,4 @@ Here are the Few command which is used in the Git
 4) git status show modified files in working directory, staged for your next commit <br>
 5) git add -> [file] add a file as it looks now to your next commit (stage) <br>
 6) git add . -> to add all files in that folder
+7) git push origin  main -> upload local repo content to Remote repo, <br> Here <b>Origin</b> is the name of the repo and <b>main</b> is the brach of the Repo, <p>We are pushing our file to git repo in main branch,</p>
